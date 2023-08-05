@@ -1,1 +1,1 @@
-# DjangoProject
+# Travel django project
